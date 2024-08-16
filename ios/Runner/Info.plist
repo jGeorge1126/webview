@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>io.flutter.experimental.flutter_impeller</key>
+	<false/>
+	<key>FlutterRenderingBackend</key>
+	<string>skia</string>
+	<key>FLTEnableImpeller</key>
+	<false />
 </dict>
 </plist>
